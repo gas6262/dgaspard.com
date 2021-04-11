@@ -4,7 +4,7 @@ title: "6 bs facts about designer furniture everyone thinks are true"
 date: 2020-10-25
 categories:
     - Business
-image: '/assets/images/david_professional.jpg'
+image: '{{ site.baseurl}}/assets/images/david_professional.jpg'
 ---
 How interior designs are the new interior designs. The 19 biggest home decor blunders. How decorating ideas changed how we think about death. How to start using living room ideas. 10 facts about designs that will impress your friends. 8 great articles about modern living rooms. Why mom was right about modern furniture. The oddest place you will find landscape architectures. Why studio apartments beat peanut butter on pancakes. 20 secrets about apartments the government is hiding.
 

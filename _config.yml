@@ -23,8 +23,8 @@ email: david@dgaspard.com.com
 description: >- # this means to ignore newlines until "baseurl:"
   Jekyll based Blog template. You can use it for all your needs. 
   This covers all the features you need.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/dgaspard.com" # the subpath of your site, e.g. /blog
+url: "https://gas6262.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 plugins:

@@ -1,26 +1,26 @@
 [
     {
-        "imagePath": "/assets/images/gallery/barca.jpg",
+        "imagePath": "{{ site.baseurl}}/assets/images/gallery/barca.jpg",
         "caption": "Travel"
     },
     {
-        "imagePath": "/assets/images/gallery/bellagio.jpeg",
+        "imagePath": "{{ site.baseurl}}/assets/images/gallery/bellagio.jpeg",
         "caption": "Travel"
     },
     {
-        "imagePath": "/assets/images/gallery/golf.JPG",
+        "imagePath": "{{ site.baseurl}}/assets/images/gallery/golf.JPG",
         "caption": "Travel"
     },
     {
-        "imagePath": "/assets/images/gallery/snow1.jpg",
+        "imagePath": "{{ site.baseurl}}/assets/images/gallery/snow1.jpg",
         "caption": "Travel"
     },
     {
-        "imagePath": "/assets/images/gallery/snow2.JPG",
+        "imagePath": "{{ site.baseurl}}/assets/images/gallery/snow2.JPG",
         "caption": "Travel"
     },
     {
-        "imagePath": "/assets/images/gallery/top.jpeg",
+        "imagePath": "{{ site.baseurl}}/assets/images/gallery/top.jpeg",
         "caption": "Travel"
     }
 ]

@@ -6,7 +6,7 @@ translationKey: "about"
 ---
 ## Hi, I'm David Gaspard
 
-<img src="/assets/images/david_water.jpg" width="50%">
+<img src="{{ site.baseurl}}/assets/images/david_water.jpg" width="50%">
 
 I'm a senior software engineer at Microsoft and more importantly a technologist at heart. I'm originally from [Jacksonville Florida](https://www.google.com/search?q=jacksonville+florida&rlz=1C5CHFA_enUS914US914&tbm=isch&sxsrf=ALeKk00waXA58G46EdNq3cuXhIAR8MOfcQ:1618165284607&source=lnms&sa=X&ved=0ahUKEwic0ue35_bvAhVmIDQIHeW_DwsQ_AUIESgD&biw=2400&bih=1110&dpr=0.8) and went to [Georgia Tech](https://en.wikipedia.org/wiki/Georgia_Tech) for my Bachelor's and Master's in Computer Engineering. Something about the [Multi-cycle datapath](http://people.cs.pitt.edu/~childers/CS0447/lectures/lect-multicycle.pdf) and [branch prediction](https://en.wikipedia.org/wiki/Branch_predictor) really sparked my interest and I decided to specialize in Computer Architecture but my career has taken me all over the place.
 
