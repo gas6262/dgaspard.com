@@ -1,0 +1,26 @@
+[
+    {
+        "imagePath": "/assets/images/gallery/barca.jpg",
+        "caption": "Travel"
+    },
+    {
+        "imagePath": "/assets/images/gallery/bellagio.jpeg",
+        "caption": "Travel"
+    },
+    {
+        "imagePath": "/assets/images/gallery/golf.JPG",
+        "caption": "Travel"
+    },
+    {
+        "imagePath": "/assets/images/gallery/snow1.jpg",
+        "caption": "Travel"
+    },
+    {
+        "imagePath": "/assets/images/gallery/snow2.JPG",
+        "caption": "Travel"
+    },
+    {
+        "imagePath": "/assets/images/gallery/top.jpeg",
+        "caption": "Travel"
+    }
+]
