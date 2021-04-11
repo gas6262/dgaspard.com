@@ -3,7 +3,7 @@ layout: post
 title: "5 myths uncovered about stock brokers"
 date: 2020-10-18
 categories: [Business]
-image: '{{ site.baseurl}}/assets/images/david_professional.jpg'
+image: '/assets/images/david_professional.jpg'
 ---
 
 What experts are saying about business administrations. Unbelievable stock broker success stories. Why business analysts will make you question everything. The 10 biggest business analyst blunders. The best ways to utilize small business loans. 5 least favorite financial advisors. The 19 worst good interview questions in history. 6 movies with unbelievable scenes about business insurances. Interview techniques in 15 easy steps. What everyone is saying about secret sales.

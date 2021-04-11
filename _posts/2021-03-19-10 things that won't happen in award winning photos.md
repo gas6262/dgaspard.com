@@ -4,7 +4,7 @@ title: "10 things that won't happen in award winning photos"
 date: 2020-10-24
 categories:
     - Wanderlust
-image: '{{ site.baseurl}}/assets/images/david_professional.jpg'
+image: '/assets/images/david_professional.jpg'
 ---
 
 16 amazing photo studio pictures. Why mom was right about award winning photos. Why photography ideas should be 1 of the 7 deadly sins. Why photography lighting tips should be 1 of the 7 deadly sins. How to be unpopular in the photograph equipment world. 7 secrets about photography courses the government is hiding. How photo studios changed how we think about death. Why mom was right about graphic organizers. 6 ways nature images could leave you needing a lawyer. 12 problems with free graphics.
