@@ -11,7 +11,7 @@ layout: default
             style="background:url('{{site.baseurl}}{{ post.image | relURL}}') center center; background-size:cover;">
         </div>
         <div class="blog-card-list-single-content">
-            <a href="{{ post.url }}">
+            <a href="{{site.baseurl}}{{ post.url }}">
                 <h1 class="blog-card-list-single-title">{{ post.title }}</h1>
             </a>
             <p class="blog-card-list-single-details">Posted on <span class="date-posted">{{ post.date | date: '%B %d,

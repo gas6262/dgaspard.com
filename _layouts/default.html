@@ -5,7 +5,7 @@
 <body>
     <div class="main-content-holder">
         <div class="page-image-holder"
-            style="background:url('{{ page.image | relative_url }}') center center; background-size:cover;"
+            style="background:url('{{site.baseurl}}{{ page.image | relative_url }}') center center; background-size:cover;"
             data-aos="zoom-in">
             <div class="overlay-holder">
                 <div class="project-details">
@@ -18,7 +18,7 @@
         <div class="page-content-holder">
             {% include navbar.html %}
             <div class="mobile-banner"
-                style="background:url('{{ page.image | relative_url}}') center center; background-size:cover;"
+                style="background:url('{{site.baseurl}}{{ page.image | relative_url}}') center center; background-size:cover;"
                 data-aos="zoom-in">
                 <div class="overlay-holder">
                     <div class="project-details">
